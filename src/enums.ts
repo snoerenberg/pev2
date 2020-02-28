@@ -53,6 +53,7 @@ export class NodeProp {
   public static NODE_TYPE: string = 'Node Type';
   public static ACTUAL_ROWS: string = 'Actual Rows';
   public static PLAN_ROWS: string = 'Plan Rows';
+  public static ROWS_REMOVED_BY_FILTER: string = 'Rows Removed by Filter';
   public static ACTUAL_STARTUP_TIME: string = 'Actual Startup Time';
   public static ACTUAL_TOTAL_TIME: string = 'Actual Total Time';
   public static ACTUAL_LOOPS: string = 'Actual Loops';
